@@ -1,0 +1,42 @@
+{
+  "ServerIP": "127.0.0.1",
+  "ServerPort": 6000,
+  "Alerts": {
+    "Temperature": {
+      "Good": 0,
+      "Normal": 0,
+      "Bad": 0,
+      "Reverse": false
+    },
+    "Humidity": {
+      "Good": 0,
+      "Normal": 0,
+      "Bad": 0,
+      "Reverse": false
+    },
+    "Oxygen": {
+      "Good": 0,
+      "Normal": 0,
+      "Bad": 0,
+      "Reverse": true
+    },
+    "CO2": {
+      "Good": 0,
+      "Normal": 0,
+      "Bad": 0,
+      "Reverse": false
+    },
+    "PM10": {
+      "Good": 0,
+      "Normal": 0,
+      "Bad": 0,
+      "Reverse": false
+    },
+    "PM25": {
+      "Good": 0,
+      "Normal": 0,
+      "Bad": 0,
+      "Reverse": false
+    }
+  }
+}
